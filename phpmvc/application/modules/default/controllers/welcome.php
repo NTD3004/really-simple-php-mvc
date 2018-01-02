@@ -5,10 +5,10 @@ class Welcome extends BaseController {
 		echo "Welcome To PHP MVC.";
 	}
 
-	public function foo() {
-		$this->load->view('default/foo', array(
-			'title' => 'Foo',
-			'heading' => 'This is Foo.'
+	public function test() {
+		$this->load->view('default/test', array(
+			'title' => 'Test',
+			'heading' => 'This is Test.'
 		));
 	}
 }
