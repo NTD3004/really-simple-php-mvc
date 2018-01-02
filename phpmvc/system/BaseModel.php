@@ -1,9 +1,5 @@
 <?php
-/**
- * Class name
- * Author:
- * Date:
- */
+
 class BaseModel extends Database {
     protected $_select = "*";
     protected $_where;

@@ -1,9 +1,5 @@
 <?php
-/**
- * Class name
- * Author:
- * Date 
- */
+
  class Database {
     protected $_connect;
 	protected $_result;

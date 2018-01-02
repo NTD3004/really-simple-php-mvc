@@ -1,9 +1,5 @@
 <?php
-/**
- * Class name:
- * Author:
- * Date:
- */
+
 class BaseController {
     public $load;
     public $model;
